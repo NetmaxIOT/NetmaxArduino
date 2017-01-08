@@ -1,5 +1,5 @@
-# NetmaxArduino 
-# avrdude for arduion uploads 
-# this is avrdude setup for ardunio uplaod by Netmax iot Shield
-# Develped for Internet of things 
-# Netmax technologies Embedded systesm devision Chandigarh india
+# Netmax   IOT Shield
+# avrdude for arduino uploads 
+# this is avrdude setup for arduino uploaded for Netmax iot Shield
+# Develped for Internet of things (iot ) development boards
+# Netmax technologies Embedded system division Chandigarh India
